@@ -42,7 +42,7 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: lime;
+    color: rgba(0, 255, 0, 0);
     /* Define a cor do texto */
 }
 
